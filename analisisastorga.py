@@ -4,8 +4,6 @@ import numpy as np
 import plotly.express as px
 import plotly.graph_objects as go
 import boto3
-from smart_open import open 
-from glob import glob
 
 
 st.title('Astorga Tomotherapy Blue Physics Analysis')
